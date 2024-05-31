@@ -13,7 +13,7 @@ const answer = await inquirer.prompt([
   },
 ]);
 
-
+/*
 if (answer.operator === "Addition"){
   console.log( answer.firstNumber + answer.secondNumber);
 }
@@ -32,3 +32,4 @@ else{
 
 
 console.log("The End")
+*/
